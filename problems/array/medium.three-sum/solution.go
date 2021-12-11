@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-// Time Complexity: O(n^3)
+// Time Complexity: O(n^4)
 // Status: Time Limit Exceeded
 
 func threeSum(nums []int) [][]int {
