@@ -21,7 +21,6 @@ func threeSum(nums []int) [][]int {
 	for i := 0; i < len(nums); i++ {
 		for j := 0; j < len(nums) && j != i; j++ {
 			for k := 0; k < len(nums) && k != i && k != j; k++ {
-
 				if nums[i]+nums[j]+nums[k] == target {
 					triplet := []int{nums[i], nums[j], nums[k]}
 					sort.Ints(triplet)
