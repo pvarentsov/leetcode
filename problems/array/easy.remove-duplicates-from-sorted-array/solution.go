@@ -7,14 +7,14 @@ func removeDuplicates(nums []int) int {
 		return 0
 	}
 
-	currentI := 0
+	i := 0
 
-	for i := 1; i < len(nums); i++ {
-		if nums[i] != nums[currentI] {
-			currentI++
-			nums[currentI] = nums[i]
+	for j := 1; j < len(nums); j++ {
+		if nums[j] != nums[i] {
+			i++
+			nums[i] = nums[j]
 		}
 	}
 
-	return currentI + 1
+	return i + 1
 }
