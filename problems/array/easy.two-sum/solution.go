@@ -1,5 +1,7 @@
 package main
 
+// Time Complexity: O(n^2)
+
 func twoSum(nums []int, target int) []int {
 	var out []int
 
