@@ -8,4 +8,4 @@
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/pvarentsov/witcher-services/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/pvarentsov/leetcode/blob/main/LICENSE).
