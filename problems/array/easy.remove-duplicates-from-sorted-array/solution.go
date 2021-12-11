@@ -1,7 +1,7 @@
 package main
 
 // Time Complexity: O(n)
-// Tests: Success
+// Status: Success
 
 func removeDuplicates(nums []int) int {
 	if len(nums) == 0 {

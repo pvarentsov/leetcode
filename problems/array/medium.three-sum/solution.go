@@ -5,7 +5,7 @@ import (
 )
 
 // Time Complexity: O(n^3)
-// Tests: Time Limit Exceeded
+// Status: Time Limit Exceeded
 
 func threeSum(nums []int) [][]int {
 	if len(nums) == 0 {

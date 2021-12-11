@@ -1,7 +1,7 @@
 package main
 
 // Time Complexity: O(n)
-// Tests: Success
+// Status: Success
 
 func removeElement(nums []int, val int) int {
 	if len(nums) == 0 {

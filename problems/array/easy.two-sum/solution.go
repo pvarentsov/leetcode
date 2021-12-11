@@ -1,7 +1,7 @@
 package main
 
 // Time Complexity: O(n^2)
-// Tests: Success
+// Status: Success
 
 func twoSum(nums []int, target int) []int {
 	var out []int
