@@ -26,6 +26,7 @@ The query result format is in the following example.
 Input: 
 
 Person table:
+
 +----+---------+
 | id | email   |
 +----+---------+
@@ -35,6 +36,7 @@ Person table:
 +----+---------+
 
 Output: 
+
 +---------+
 | Email   |
 +---------+
