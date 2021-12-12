@@ -8,6 +8,7 @@
 * [easy: two-sum](./problems/array/easy.two-sum)
 * [medium: three-sum](./problems/array/medium.three-sum)
 * [medium: four-sum](./problems/array/medium.four-sum)
+* [medium: sort-colors](./problems/array/medium.sort-colors)
 
 ## License
 
