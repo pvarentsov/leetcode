@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-// Time Complexity: O(n^3 log(n)))
+// Time Complexity: O(n^3*logn)
 // Status: Passed
 
 func threeSum(nums []int) [][]int {
