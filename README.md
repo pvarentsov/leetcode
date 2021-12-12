@@ -7,6 +7,7 @@
 * [easy: remove-element](./problems/array/easy.remove-element)
 * [easy: two-sum](./problems/array/easy.two-sum)
 * [medium: three-sum](./problems/array/medium.three-sum)
+* [medium: four-sum](./problems/array/medium.four-sum)
 
 ## License
 
