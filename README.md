@@ -14,6 +14,9 @@
 * [easy: combine-two-tables](./problems/database/easy.combine-two-tables)
 * [easy: duplicate-emails](./problems/database/easy.duplicate-emails)
 * [easy: swap-salary](./problems/database/easy.swap-salary)
+* [medium: department-highest-salary](./problems/database/medium.department-highest-salary)
+* [medium: rank-scores](./problems/database/medium.rank-scores)
+* [medium: second-highest-salary](./problems/database/medium.second-highest-salary)
 
 ## License
 
