@@ -73,5 +73,8 @@ Output:
 | IT         | Max      | 90000  |
 +------------+----------+--------+
 
-Explanation: Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department.
+Explanation: 
+
+Max and Jim both have the highest salary in the IT department 
+and Henry has the highest salary in the Sales department.
 ```
