@@ -2,5 +2,5 @@
 -- Status: Passed
 
 SELECT score,
-       dense_rank() over (ORDER BY score DESC) AS "rank"
+       DENSE_RANK() OVER (ORDER BY score DESC) AS "rank"
 FROM Scores
