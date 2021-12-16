@@ -14,7 +14,9 @@
 * [easy: combine-two-tables](./problems/database/easy.combine-two-tables)
 * [easy: duplicate-emails](./problems/database/easy.duplicate-emails)
 * [easy: swap-salary](./problems/database/easy.swap-salary)
+* [medium: consecutive-numbers](./problems/database/medium.consecutive-numbers)
 * [medium: department-highest-salary](./problems/database/medium.department-highest-salary)
+* [medium: nth-highest-salary](./problems/database/medium.nth-highest-salary)
 * [medium: rank-scores](./problems/database/medium.rank-scores)
 * [medium: second-highest-salary](./problems/database/medium.second-highest-salary)
 
