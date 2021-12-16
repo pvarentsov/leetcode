@@ -1,4 +1,4 @@
-**Problem:** https://leetcode.com/problems/swap-salary/
+**Problem:** https://leetcode.com/problems/department-highest-salary/
 
 **Table:** `Employee`
 
