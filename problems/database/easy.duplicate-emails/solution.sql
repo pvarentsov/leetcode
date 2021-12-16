@@ -1,7 +1,7 @@
 -- Dialect: MySQL
 -- Status: Passed
 
-select email as Email
-from Person
-group by email
-having count(email) > 1
+SELECT email AS Email
+FROM Person
+GROUP BY email
+HAVING count(email) > 1

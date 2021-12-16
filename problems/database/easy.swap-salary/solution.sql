@@ -1,5 +1,5 @@
 -- Dialect: MySQL
 -- Status: Passed
 
-update Salary
-set sex = replace('fm', sex, '')
+UPDATE Salary
+SET sex = replace('fm', sex, '')
